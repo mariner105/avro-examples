@@ -1,4 +1,5 @@
 *.avro
 .idea/
 *.iml
+*.jar
 target/
